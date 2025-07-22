@@ -10,7 +10,7 @@ fig = go.Figure(data=go.Scatter(x=x_data, y=y_data, mode='lines+markers', name='
 
 # Customize the layout
 fig.update_layout(
-    title='Simple Plotly Line Graph 5005',
+    title='Simple Plotly Line Graph 5007',
     xaxis_title='X Values',
     yaxis_title='Y Values',
     showlegend=True
